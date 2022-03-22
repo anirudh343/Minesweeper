@@ -1,0 +1,75 @@
+﻿  Board.cpp
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Board.cpp(240,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Board.cpp(240,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Board.cpp(247,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Board.cpp(247,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project3.cpp
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Project3.cpp(44,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Project3.cpp(44,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Project3.cpp(62,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Project3.cpp(62,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Tile.cpp
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(44,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(44,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(51,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(51,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(52,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(52,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(60,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(60,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(61,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(61,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(68,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(68,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(76,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(76,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(77,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(77,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(85,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(85,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(86,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(86,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(95,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(95,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(96,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(96,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(97,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Project3\Tile.cpp(97,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  105 of 536 functions (19.6%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    37 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project3.vcxproj -> C:\Users\aniru\OneDrive\Desktop\UF\ProgrammingFundamentals2\Release\Project3.exe
